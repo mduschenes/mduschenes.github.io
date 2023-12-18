@@ -1,0 +1,15 @@
+@article{Duschenes2023,
+	archivePrefix = {arXiv},
+	arxivId = {arXiv:2205.02206 [math.NA]},
+	author = {Duschenes, Matthew and Srivastava, Sid and Garikipati, Krishna},
+	doi = {j.cma.2022.115513},
+	eprint = {arXiv:2205.02206 [math.NA]},
+	journal = {Comput. Methods Appl. Mech. Eng.},
+	mendeley-groups = {Work/Funding{\_}Proposals/NSERC{\_}2022},
+	number = {12},
+	pages = {115513},
+	title = {{Numerical analysis of non-local calculus on finite weighted graphs, with application to reduced-order modelling of dynamical systems}},
+	url = {https://arxiv.org/abs/2205.02206},
+	volume = {402},
+	year = {2022}
+	}

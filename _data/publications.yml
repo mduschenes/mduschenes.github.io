@@ -1,22 +1,23 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/images/teaser_example_2.png
-    notes: Early Accept
+  - title: Characterization of Overparameterization in Simulation of Realistic Quantum Systems
+    authors: <strong>Matthew Duschenes</strong>, J. Carrasquilla, and R. Laflamme
+    conference_short: arXiv [quantum-ph]
+    conference: arXiv [quantum-ph], APS March Meeting 2023 - Y70
+    doi: https://arxiv.org/abs/2205.02206
+    pdf: https://arxiv.org/pdf/2205.02206.pdf
+    code: https://github.com/mduschenes/simulation
+    bibtex: ./assets/bib/simulation.txt
+    image: ./assets/data/simulation.svg
+    notes: Submission to PRX Quantum
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    image: ./assets/images/teaser_example.png
-    notes: Oral Presentation
+  - title: Channel expressivity measures and their operational meaning
+    authors: <strong>M. Duschenes</strong>, D. Martin, M. Larocca, Z. Holmes, and M. Cerezo
+    conference_short: arXiv [quantum-ph]
+    conference: arXiv [quantum-ph]
+    doi: https://arxiv.org/abs/2205.02206    
+    pdf: https://arxiv.org/pdf/2205.02206.pdf
+    # code: https://github.com/mduschenes/expressivity
+    bibtex: ./assets/bib/expressivity.txt
+    image: ./assets/data/expressivity.svg
+    notes: Submission to PRX Quantum
