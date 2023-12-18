@@ -1,0 +1,6 @@
+@masterthesis{Duschenes2018,
+author={Duschenes, M.},
+title={Distinguishing phases and detecting local and non-local order using t-SNE and Monte Carlo methods},
+school={Perimeter Scholar's International Program, and University of Waterloo}
+year={2018}
+}

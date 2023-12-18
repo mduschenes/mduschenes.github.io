@@ -1,0 +1,11 @@
+@article{Duschenes2022,
+author = {Duschenes, Matthew and Srivastava, Sid and Garikipati, Krishna},
+doi = {j.cma.2022.115513},
+journal = {Comput. Methods Appl. Mech. Eng.},
+number = {12},
+pages = {115513},
+title = {{Numerical analysis of non-local calculus on finite weighted graphs, with application to reduced-order modelling of dynamical systems}},
+url = {https://doi.org/10.1016/j.cma.2022.115513},
+volume = {402},
+year = {2022}
+}

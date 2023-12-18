@@ -20,10 +20,14 @@ SOURCE := resume.pdf
 DESTINATION := assets/data/cv.pdf
 FILES := $(patsubst %,$(DIRECTORY)/%,$(SOURCE))
 
-all : $(CONFIG) $(FILES)
-	@$(CP) $(FILES) $(DESTINATION)
-	@$(RESET)
+all : setup
 	@$(EXE) $(OPTIONS) $(FLAGS)
 
-.PHONY : all
-.SILENT : all
+setup :
+	@$(CP) $(FILES) $(DESTINATION)
+
+clean :
+	@$(RESET)
+
+.PHONY : all clean setup
+.SILENT : all clean setup

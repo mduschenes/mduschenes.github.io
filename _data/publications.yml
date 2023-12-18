@@ -2,10 +2,10 @@ main:
 
   - title: Characterization of Overparameterization in Simulation of Realistic Quantum Systems
     authors: <strong>Matthew Duschenes</strong>, J. Carrasquilla, and R. Laflamme
-    conference_short: arXiv [quantum-ph]
-    conference: arXiv [quantum-ph], APS March Meeting 2023 - Y70
-    doi: https://arxiv.org/abs/2205.02206
-    pdf: https://arxiv.org/pdf/2205.02206.pdf
+    journal_short: arXiv [quantum-ph]
+    journal: arXiv [quantum-ph], APS March Meeting 2023 - Y70
+    doi: 
+    pdf: 
     code: https://github.com/mduschenes/simulation
     bibtex: ./assets/bib/simulation.txt
     image: ./assets/data/simulation.svg
@@ -13,11 +13,30 @@ main:
 
   - title: Channel expressivity measures and their operational meaning
     authors: <strong>M. Duschenes</strong>, D. Martin, M. Larocca, Z. Holmes, and M. Cerezo
-    conference_short: arXiv [quantum-ph]
-    conference: arXiv [quantum-ph]
-    doi: https://arxiv.org/abs/2205.02206    
-    pdf: https://arxiv.org/pdf/2205.02206.pdf
+    journal_short: arXiv [quantum-ph]
+    journal: arXiv [quantum-ph]
+    doi: 
+    pdf: 
     # code: https://github.com/mduschenes/expressivity
     bibtex: ./assets/bib/expressivity.txt
     image: ./assets/data/expressivity.svg
     notes: Submission to PRX Quantum
+
+  - title: Numerical analysis of non-local calculus on finite weighted graphs, with application to reduced-order modelling of dynamical systems
+    authors: <strong>M. Duschenes</strong>, S. Srivastava, and K. Garikipati
+    journal_short: Comp. Meth. Appl. Mech. Eng.
+    journal: Comput. Methods Appl. Mech. Eng. <strong>402</strong>, 115513 (2022)
+    doi: https://doi.org/10.1016/j.cma.2022.115513    
+    pdf: https://arxiv.org/pdf/2205.02206.pdf
+    code: https://github.com/sidsriva/graph_calculus
+    bibtex: ./assets/bib/nonlocal.txt
+    image: ./assets/data/nonlocal.png
+
+  - title: Distinguishing phases and detecting local and non-local order using t-SNE and Monte Carlo methods
+    authors: <strong>M. Duschenes</strong>, with R. Melko and L. Hayward
+    journal_short: Master's Thesis
+    journal: Perimeter Scholar's International Master's Thesis (2018)
+    pdf: ./assets/data/potts.pdf
+    code: https://github.com/mduschenes/tSNE_Potts
+    bibtex: ./assets/bib/potts.txt
+    image: ./assets/data/potts.png

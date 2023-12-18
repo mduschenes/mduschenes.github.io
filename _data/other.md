@@ -1,6 +1,6 @@
 # Teaching
-- Quetzal Quantum Computing Career Accelerator: Quantum Machine Learning *(Fall, 2023)*
 - University of Waterloo PHYS 242 Electricity and Magnetism: TA *(Winter, 2023-2024)*
+- Quetzal Quantum Computing Career Accelerator: Quantum Machine Learning *(Fall, 2023)*
 - International Summer School for Young Physicists Program: Lecturer *(Summer, 2022-2024)*
   <!-- - Developed week-long lecture series and Monte Carlo exercises on phase transitions for high school students -->
 - Vector Institute Machine Learning Certificate Program: TA *(Spring, 2022)*
