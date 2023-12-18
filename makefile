@@ -1,28 +1,32 @@
+SHELL := /bin/bash
 ECHO := echo
 CP := cp -rf
 MKDIR := mkdir -p
 MV := mv -f
-EXE := bundle exec jekyll server
-KILL := kill -9
+EXE := bundle
+OPTIONS := exec jekyll server
 
 PORT := 4000
-FLAGS := --port $(PORT)
+FLAGS := --port $(PORT) &
+RESET := $(shell lsof -n -i | grep $(EXE) | awk '{ print $$2 }' | tr "\n" " " | sort -V | xargs kill -9)
 
-CONFIG := _config.yml index.md
-FILES := 
+DIRECTORY := .
+SOURCE := _config.yml index.md
+DESTINATION :=
+CONFIG := $(patsubst %,$(DIRECTORY)/%,$(CONFIG))
 
-SOURCE := .
+DIRECTORY := /home/matt/files/documents/resume/resume
+SOURCE := resume.pdf
+DESTINATION := assets/data/cv.pdf
+FILES := $(patsubst %,$(DIRECTORY)/%,$(SOURCE))
 
-FILES := $(patsubst %,$(SOURCE)/%,$(FILES))
-
-SERVE : $(FILES)
-	@$(ECHO) $(shell lsof -wni tcp:$(PORT) | grep TCP | tail | awk '{print $2}' )
-	@$(EXE) $(FLAGS) &
+all : $(CONFIG) $(FILES)
+	@$(ECHO) $(FILES) $(DESTINATION)
+	@$(RESET)
+	@$(EXE) $(OPTIONS) $(FLAGS)
 
 $(FILES) :
+	@$(CP) $(FILES) $(DESTINATION)
 
-$(SRC) :
-
-
-.PHONY :
-.SILENT :
+.PHONY : all
+.SILENT : all

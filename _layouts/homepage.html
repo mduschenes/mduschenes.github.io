@@ -54,22 +54,23 @@
         <br>
         {% endif %}
         {% if site.email %}
-        <email>{{ site.email }}</email>
+        <a href="mailto:{{ site.email }}"><email>{{ site.email }}</email></a>
+        <!-- <email>{{ site.email }}</email> -->
         {% endif %}
 
         <br>
         <br>
         <div class="social-icons">
-        {% if site.google %}
-        <a style="margin: 0 5px 0 0" href="{{ site.google }}">
-          <i class="ai ai-google-scholar" style="font-size:1.2rem"></i>
-        </a>  
-        {% endif %}
-
         {% if site.cv %}
         <a style="margin: 0 5px 0 0" href="{{ site.cv }}">
           <i class="ai ai-cv" style="font-size:1.3rem;"></i>
         </a>
+        {% endif %}
+
+        {% if site.google %}
+        <a style="margin: 0 5px 0 0" href="{{ site.google }}">
+          <i class="ai ai-google-scholar" style="font-size:1.2rem"></i>
+        </a>  
         {% endif %}
 
         {% if site.github %}
@@ -108,7 +109,7 @@
         
       </footer>
     </div>
-    <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+    <script src="{{ "./assets/js/scale.fix.js" | relative_url }}"></script>
     {% if site.google_analytics %}
     <script>
       (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
