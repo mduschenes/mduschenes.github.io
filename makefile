@@ -21,12 +21,9 @@ DESTINATION := assets/data/cv.pdf
 FILES := $(patsubst %,$(DIRECTORY)/%,$(SOURCE))
 
 all : $(CONFIG) $(FILES)
-	@$(ECHO) $(FILES) $(DESTINATION)
+	@$(CP) $(FILES) $(DESTINATION)
 	@$(RESET)
 	@$(EXE) $(OPTIONS) $(FLAGS)
-
-$(FILES) :
-	@$(CP) $(FILES) $(DESTINATION)
 
 .PHONY : all
 .SILENT : all
