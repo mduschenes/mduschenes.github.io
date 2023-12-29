@@ -1,5 +1,5 @@
 # Teaching
-- University of Waterloo PHYS 242 Electricity and Magnetism: TA *(Winter, 2023-2024)*
+- University of Waterloo PHYS 242 Electricity and Magnetism I: TA *(Winter, 2023-2024)*
 - Quetzal Quantum Computing Career Accelerator: Quantum Machine Learning *(Fall, 2023)*
 - International Summer School for Young Physicists Program: Lecturer *(Summer, 2022-2024)*
   <!-- - Developed week-long lecture series and Monte Carlo exercises on phase transitions for high school students -->
@@ -14,7 +14,7 @@
 - Perimeter Institute Academic Outreach *(Fall, 2021 - Present)*
 
 # Awards
-- NSERC PGS-D Graduate Scholarship} - NSERC (2023 - 2025)
+- NSERC PGS-D Graduate Scholarship - NSERC (2023 - 2025)
 - President's Award and Marie Curie Award - University of Waterloo (2023 - 2025)
 - Vector Research Grant - Vector Institute (2022 - 2024)
 - Perimeter PhD Student Residency - Perimeter Institute (2021 - 2025)
