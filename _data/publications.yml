@@ -7,8 +7,8 @@ main:
     doi: 
     pdf: 
     code: https://github.com/mduschenes/simulation
-    bibtex: ./assets/bib/simulation.txt
-    image: ./assets/data/simulation.svg
+    bibtex: ./assets/data/bib/phd_overparameteriztion.txt
+    image: ./assets/data/publications/phd_overparameterization.svg
     notes: Submission to PRX Quantum
 
   - title: Channel expressivity measures and their operational meaning
@@ -17,9 +17,9 @@ main:
     journal: arXiv [quantum-ph]
     doi: 
     pdf: 
-    # code: https://github.com/mduschenes/expressivity
-    bibtex: ./assets/bib/expressivity.txt
-    image: ./assets/data/expressivity.svg
+    code:
+    bibtex: ./assets/data/bib/phd_expressivity.txt
+    image: ./assets/data/publications/phd_expressivity.svg
     notes: Submission to PRX Quantum
 
   - title: Numerical analysis of non-local calculus on finite weighted graphs, with application to reduced-order modelling of dynamical systems
@@ -29,14 +29,14 @@ main:
     doi: https://doi.org/10.1016/j.cma.2022.115513    
     pdf: https://arxiv.org/pdf/2205.02206.pdf
     code: https://github.com/sidsriva/graph_calculus
-    bibtex: ./assets/bib/nonlocal.txt
-    image: ./assets/data/nonlocal.png
+    bibtex: ./assets/data/bib/masters_nonlocal_calculus.txt
+    image: ./assets/data/publications/masters_nonlocal_calculus.png
 
   - title: Distinguishing phases and detecting local and non-local order using t-SNE and Monte Carlo methods
     authors: <strong>M. Duschenes</strong>, with R. Melko and L. Hayward
     journal_short: Master's Thesis
     journal: Perimeter Scholar's International Master's Thesis (2018)
-    pdf: ./assets/data/potts.pdf
+    pdf: ./assets/data/publications/masters_psi.pdf
     code: https://github.com/mduschenes/tSNE_Potts
-    bibtex: ./assets/bib/potts.txt
-    image: ./assets/data/potts.png
+    bibtex: ./assets/data/bib/masters_psi.txt
+    image: ./assets/data/publications/masters_psi.png

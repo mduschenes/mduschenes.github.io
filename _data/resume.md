@@ -8,7 +8,7 @@
 - Duschenes, M. "Overparameterization of Realistic Quantum Systems". In *Canadian Quantum Graduate Conference* (2023)
 - Duschenes, M. "Overparameterization of Realistic Quantum Systems". In *Quantum Days Conference* (2023)
 - [Duschenes, M. "Overparameterization of Realistic Quantum Systems". In *Perimeter Graduate Student Seminar Series* (2022)](https://pirsa.org/22110060)
-- Duschenes, M. "Overparameterization of Realistic Quantum Circuits". In *Perimeter Institute Quantum Matter Workshop* (2022)
+- [Duschenes, M. "Overparameterization of Realistic Quantum Circuits". In *Perimeter Institute Quantum Matter Workshop* (2022)](assets/data/resume/phd_overparameterization.pdf)
 - Duschenes, M. "Learning and Overparameterization of Constrained Variational Quantum Circuits". In *IAIFI Summer School and Workshop* (2022)
 
 ## Master's - University of Michigan
@@ -19,4 +19,4 @@
 - Duschenes, M. "Graph theoretic approaches for physical systems". In *UM Physics Graduate Student Seminar Series* (2020)
 
 ## Master's - Perimeter Institute
-- [Duschenes, M. Distinguishing phases and detecting local and non-local order using t-SNE and Monte Carlo methods. Master's Thesis for Perimeter Scholar's International Program (2018)](assets/data/potts.pdf)
+- [Duschenes, M. Distinguishing phases and detecting local and non-local order using t-SNE and Monte Carlo methods. Master's Thesis for Perimeter Scholar's International Program (2018)](assets/data/resume/masters_psi.pdf)
