@@ -4,7 +4,7 @@ CP := cp -rf
 MKDIR := mkdir -p
 MV := mv -f
 EXE := bundle
-OPTIONS := exec jekyll server
+OPTIONS := exec jekyll server -l
 
 PORT := 4000
 FLAGS := --port $(PORT) &

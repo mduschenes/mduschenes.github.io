@@ -17,10 +17,10 @@
 - NSERC PGS-D Graduate Scholarship - NSERC (2023 - 2025)
 - President's Award and Marie Curie Award - University of Waterloo (2023 - 2025)
 - Vector Research Grant - Vector Institute (2022 - 2024)
-- Perimeter PhD Student Residency - Perimeter Institute (2021 - 2025)
+- Perimeter Institute PhD Student Residency - Perimeter Institute (2021 - 2025)
 - Graduate Research Studentship - Institute for Quantum Computing (2021 - 2025)
 - Applied Physics Graduate Fellowship - University of Michigan (2018 - 2021)
-- Perimeter Scholar Scholarship - Perimeter Institute (2017 - 2018)
+- Perimeter Scholar's International Scholarship - Perimeter Institute (2017 - 2018)
 - Principal’s Scholarship, W.W. King Scholarship - Queen's University (2013 - 2017)
 
 
