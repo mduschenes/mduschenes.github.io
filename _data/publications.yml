@@ -4,8 +4,8 @@ main:
     authors: <strong>Matthew Duschenes</strong>, J. Carrasquilla, and R. Laflamme
     journal_short: arXiv [quantum-ph]
     journal: arXiv [quantum-ph], APS March Meeting 2023 - Y70
-    doi: 
-    pdf: 
+    doi: https://arxiv.org/abs/2401.05500
+    pdf: https://arxiv.org/pdf/2401.05500.pdf
     code: https://github.com/mduschenes/simulation
     bibtex: ./assets/data/bib/phd_overparameteriztion.txt
     image: ./assets/data/publications/phd_overparameterization.svg
