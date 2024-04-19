@@ -7,9 +7,10 @@ main:
     doi: https://arxiv.org/abs/2401.05500
     pdf: https://arxiv.org/pdf/2401.05500.pdf
     code: https://github.com/mduschenes/simulation
+    talk: ./assets/data/publications/phd_overparameterization_talk.pdf
     bibtex: ./assets/data/bib/phd_overparameteriztion.txt
     image: ./assets/data/publications/phd_overparameterization.svg
-    notes: Submission to PRX Quantum
+    notes: Submission to PRA
 
   - title: Channel expressivity measures and their operational meaning
     authors: <strong>M. Duschenes</strong>, D. Martin, M. Larocca, Z. Holmes, and M. Cerezo
@@ -18,6 +19,7 @@ main:
     doi: 
     pdf: 
     code:
+    talk: ./assets/data/publications/phd_expressivity_talk.pdf
     bibtex: ./assets/data/bib/phd_expressivity.txt
     image: ./assets/data/publications/phd_expressivity.svg
     notes: Submission to PRX Quantum
@@ -29,6 +31,7 @@ main:
     doi: https://doi.org/10.1016/j.cma.2022.115513    
     pdf: https://arxiv.org/pdf/2205.02206.pdf
     code: https://github.com/sidsriva/graph_calculus
+    talk: ./assets/data/publications/masters_nonlocal_calculus_talk.pdf
     bibtex: ./assets/data/bib/masters_nonlocal_calculus.txt
     image: ./assets/data/publications/masters_nonlocal_calculus.png
 
@@ -38,5 +41,6 @@ main:
     journal: Perimeter Scholar's International Master's Thesis (2018)
     pdf: ./assets/data/publications/masters_psi.pdf
     code: https://github.com/mduschenes/tSNE_Potts
+    talk: ./assets/data/publications/masters_psi_talk.pdf
     bibtex: ./assets/data/bib/masters_psi.txt
     image: ./assets/data/publications/masters_psi.png

@@ -22,3 +22,5 @@ gem "webrick", "~> 1.8"
 gem "csv"
 
 gem 'faraday-retry', '~> 2.2', '>= 2.0.0'
+
+gem 'thin'
