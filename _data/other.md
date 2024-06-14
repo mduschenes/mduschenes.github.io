@@ -1,5 +1,5 @@
 # Teaching
-- University of Waterloo PHYS 242 Electricity and Magnetism I: TA *(Winter, 2023-2024)*
+- [University of Waterloo PHYS 242 Electricity and Magnetism I: TA *(Winter, 2023-2024)*](assets/data/teaching/em.pdf)
 - [Quetzal Quantum Computing Career Accelerator: Quantum Machine Learning *(Fall, 2023)*](assets/data/teaching/quetzal.pdf)
 - [International Summer School for Young Physicists Program: Lecturer *(Summer, 2022-2024)*](assets/data/teaching/issyp.pdf)
   <!-- - Developed week-long lecture series and Monte Carlo exercises on phase transitions for high school students -->

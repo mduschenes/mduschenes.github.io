@@ -2,15 +2,15 @@ main:
 
   - title: Characterization of Overparameterization in Simulation of Realistic Quantum Systems
     authors: <strong>Matthew Duschenes</strong>, J. Carrasquilla, and R. Laflamme
-    journal_short: arXiv [quantum-ph]
-    journal: arXiv [quantum-ph], APS March Meeting 2023 - Y70
-    doi: https://arxiv.org/abs/2401.05500
+    journal_short: Physical Review A
+    journal: Phys. Rev. A 109, 062607 (2024), APS March Meeting 2023 - Y70
+    doi: https://doi.org/10.1103/PhysRevA.109.062607
     pdf: https://arxiv.org/pdf/2401.05500.pdf
     code: https://github.com/mduschenes/simulation
     talk: ./assets/data/publications/phd_overparameterization_talk.pdf
     bibtex: ./assets/data/bib/phd_overparameteriztion.txt
     image: ./assets/data/publications/phd_overparameterization.svg
-    notes: Submission to PRA
+    notes:
 
   - title: Channel expressivity measures and their operational meaning
     authors: <strong>M. Duschenes</strong>, D. Martin, M. Larocca, Z. Holmes, and M. Cerezo
