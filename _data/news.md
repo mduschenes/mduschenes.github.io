@@ -1,4 +1,5 @@
 ## News
+- **[Sep-Dec. 2024]** TA for U Waterloo Course *PHYS 468 - Implementations of Quantum Information Processing*, and Contributor to Textbook [Building Quantum Computers](https://www.cambridge.org/highereducation/books/building-quantum-computers/6A73C509D3E0F5F0A566A11F6A566A90#overview)
 - **[Jun. 2024]** Paper "Characterization of overparametrization in the simulation of realistic quantum systems" accepted in [Phys. Rev. A](https://doi.org/10.1103/PhysRevA.109.062607)
 - **[May. 2024]** Talks on *Overparameterization and Expressivity of Realistic Quantum Systems* at IBM-Zurich, Jens Eisert group (Freie Universität - Berlin), and Zoe Holmes group (EPFL).
 - **[Mar. 2024]** Talk on *Measures of Expressivity for Quantum Channels and their Operational Meaning* at APS March Meeting 2024.
