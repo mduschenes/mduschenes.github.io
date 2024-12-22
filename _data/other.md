@@ -1,7 +1,9 @@
 # Teaching
+- [University of Waterloo PHYS 468 Quantum Computing Implementations: TA *(Fall, 2024)*](assets/data/teaching/quantumcomputing.pdf)
 - [University of Waterloo PHYS 242 Electricity and Magnetism I: TA *(Winter, 2023-2024)*](assets/data/teaching/em.pdf)
 - [Quetzal Quantum Computing Career Accelerator: Quantum Machine Learning *(Fall, 2023)*](assets/data/teaching/quetzal.pdf)
-- [International Summer School for Young Physicists Program: Lecturer *(Summer, 2022-2024)*](assets/data/teaching/issyp.pdf)
+- Perimeter Scholar's International Start Program: TA *(Summer, 2024)*
+- [International Summer School for Young Physicists Program: Lecturer *(Summer, 2022-2023)*](assets/data/teaching/issyp.pdf)
   <!-- - Developed week-long lecture series and Monte Carlo exercises on phase transitions for high school students -->
 - [Vector Institute Machine Learning Certificate Program: TA *(Spring, 2022)*](assets/data/teaching/ml.pdf)
   <!-- - Developed course content and graded assignments for participants to learn introductory skills in learning theory -->

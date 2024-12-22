@@ -12,8 +12,8 @@ main:
     image: ./assets/data/publications/phd_overparameterization.svg
     notes:
 
-  - title: Channel expressivity measures and their operational meaning
-    authors: <strong>M. Duschenes</strong>, D. Martin, M. Larocca, Z. Holmes, and M. Cerezo
+  - title: Moments of Quantum Channels
+    authors: <strong>M. Duschenes</strong>, D. Martin, Z. Holmes, and M. Cerezo
     journal_short: arXiv [quantum-ph]
     journal: arXiv [quantum-ph]
     doi: 
@@ -21,7 +21,7 @@ main:
     code:
     talk: ./assets/data/publications/phd_expressivity_talk.pdf
     bibtex: ./assets/data/bib/phd_expressivity.txt
-    image: ./assets/data/publications/phd_expressivity.svg
+    image: ./assets/data/publications/phd_expressivity.png
     notes: Submission to PRX Quantum
 
   - title: Numerical analysis of non-local calculus on finite weighted graphs, with application to reduced-order modelling of dynamical systems

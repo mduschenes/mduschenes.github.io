@@ -2,6 +2,8 @@
 
 ## PhD - University of Waterloo
 - [Duschenes, M. and Carrasquilla, J. and Laflamme, R. Characterization of overparametrization in the simulation of realistic quantum systems. *Physical Review A.* **109**, 062607 (2024)](https://doi.org/10.1103/PhysRevA.109.062607)
+- [Duschenes, M. "Channel Expressivity Measures and their Operational Meaning". In *CQIQC Conference X* (2024)](assets/data/resume/phd_expressivity_poster.pdf)
+- [Duschenes, M. "Overparameterization and Expressivity of Realistic Quantum Systems". *Invited talks -  IBM Zurich (Christa Zoufal), Freie Universität Berlin (Jens Eisert Group), EPFL (Zoe Holmes Group)* (2024)](assets/data/resume/phd_overparameterization_expressivity.pdf)
 - [Duschenes, M. and Martin, D. and Larocca, M. and Holmes, Z. and Cerezo, M. "Connecting channel expressiveness to gradient magnitudes and noise induced barren plateaus". In *APS March Meeting, Session T51: Quantum Machine Learning Training and Beyond* (2024)](https://meetings.aps.org/Meeting/MAR24/Session/T51.2)
 - [Duschenes, M. "Overparameterization of Realistic Quantum Systems". Invited talk in *PI/MILA Quantum/AI Workshop* (2023)](assets/data/resume/phd_overparameterization_talk_mila.pdf)
 - Duschenes, M. "Noisy Overparameterization of Quantum Systems". In *Vector Institute Quantum + Machine Learning Workshop* (2023)
