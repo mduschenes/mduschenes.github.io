@@ -8,21 +8,21 @@ main:
     pdf: https://arxiv.org/pdf/2401.05500.pdf
     code: https://github.com/mduschenes/simulation
     talk: ./assets/data/publications/phd_overparameterization_talk.pdf
-    bibtex: ./assets/data/bib/phd_overparameteriztion.txt
+    bibtex: ./assets/data/publications/phd_overparameterization.txt
     image: ./assets/data/publications/phd_overparameterization.svg
     notes:
 
   - title: Moments of Quantum Channels
     authors: <strong>M. Duschenes</strong>, D. Martin, Z. Holmes, and M. Cerezo
-    journal_short: arXiv [quantum-ph]
-    journal: arXiv [quantum-ph]
+    journal_short: In Preparation
+    journal: In Preparation
     doi: 
     pdf: 
     code:
     talk: ./assets/data/publications/phd_expressivity_talk.pdf
-    bibtex: ./assets/data/bib/phd_expressivity.txt
+    bibtex: ./assets/data/publications/phd_expressivity.txt
     image: ./assets/data/publications/phd_expressivity.png
-    notes: Submission to PRX Quantum
+    notes: In Preparation for PRX Quantum
 
   - title: Numerical analysis of non-local calculus on finite weighted graphs, with application to reduced-order modelling of dynamical systems
     authors: <strong>M. Duschenes</strong>, S. Srivastava, and K. Garikipati
@@ -32,7 +32,7 @@ main:
     pdf: https://arxiv.org/pdf/2205.02206.pdf
     code: https://github.com/sidsriva/graph_calculus
     talk: ./assets/data/publications/masters_nonlocal_calculus_talk.pdf
-    bibtex: ./assets/data/bib/masters_nonlocal_calculus.txt
+    bibtex: ./assets/data/publications/masters_nonlocal_calculus.txt
     image: ./assets/data/publications/masters_nonlocal_calculus.png
 
   - title: Distinguishing phases and detecting local and non-local order using t-SNE and Monte Carlo methods
@@ -42,5 +42,5 @@ main:
     pdf: ./assets/data/publications/masters_psi.pdf
     code: https://github.com/mduschenes/tSNE_Potts
     talk: ./assets/data/publications/masters_psi_talk.pdf
-    bibtex: ./assets/data/bib/masters_psi.txt
+    bibtex: ./assets/data/publications/masters_psi.txt
     image: ./assets/data/publications/masters_psi.png

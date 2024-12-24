@@ -17,7 +17,7 @@ CONFIG := $(patsubst %,$(DIRECTORY)/%,$(CONFIG))
 
 DIRECTORY := /home/${USER}/files/documents/resume/resume
 SOURCE := resume.pdf resume.bib
-DESTINATION := assets/data/
+DESTINATION := assets/data/resume
 FILES := $(patsubst %,$(DIRECTORY)/%,$(SOURCE))
 
 all : setup

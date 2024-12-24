@@ -1,0 +1,15 @@
+@article{Duschenes2024,
+  title = {Characterization of overparametrization in the simulation of realistic quantum systems},
+  author = {Duschenes, Matthew and Carrasquilla, Juan and Laflamme, Raymond},
+  journal = {Phys. Rev. A},
+  volume = {109},
+  issue = {6},
+  pages = {062607},
+  numpages = {28},
+  year = {2024},
+  month = {Jun},
+  publisher = {American Physical Society},
+  doi = {10.1103/PhysRevA.109.062607},
+  url = {https://link.aps.org/doi/10.1103/PhysRevA.109.062607}
+}
+
