@@ -13,7 +13,7 @@
 - Chair of Wavevector Seminar Series *(Fall, 2023 - Present)*
 - Perimeter Mentorship Program *(Fall, 2021 - Present)*
 - Perimeter Women in Physics Working Group *(Fall, 2022 - Present)*
-- Perimeter Institute Academic Outreach *(Fall, 2021 - Present)*
+- [Perimeter Institute Academic Outreach *(Fall, 2021 - Present)*](assets/data/other/pi.pdf)
 
 # Awards
 - NSERC PGS-D Graduate Scholarship - NSERC (2023 - 2025)

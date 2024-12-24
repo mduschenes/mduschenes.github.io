@@ -5,11 +5,11 @@ main:
     journal_short: In Preparation
     journal: In Preparation
     doi: 
-    pdf: ./assets/data/publications/phd_povm.pdf
+    pdf:
     code:
     talk: ./assets/data/publications/phd_povm_talk.pdf
-    poster: ./assets/data/publications/phd_povm_poster.pdf
-    bibtex: ./assets/data/publications/phd_povm.txt
+    poster:
+    bibtex:
     image: ./assets/data/publications/phd_povm.png
     notes: In Preparation for arXiv
 
@@ -18,11 +18,11 @@ main:
     journal_short: In Preparation
     journal: In Preparation, APS March Meeting 2024 - T51
     doi: 
-    pdf: ./assets/data/publications/phd_expressivity.pdf
+    pdf:
     code:
     talk: ./assets/data/publications/phd_expressivity_talk.pdf
     poster: ./assets/data/publications/phd_expressivity_poster.pdf
-    bibtex: ./assets/data/publications/phd_expressivity.txt
+    bibtex:
     image: ./assets/data/publications/phd_expressivity.png
     notes: In Preparation for PRX Quantum
 
