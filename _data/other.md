@@ -1,11 +1,11 @@
 # Teaching
-- [University of Waterloo PHYS 468 Quantum Computing Implementations: TA *(Fall, 2024)*](assets/data/other/quantumcomputing.pdf)
-- [University of Waterloo PHYS 242 Electricity and Magnetism I: TA *(Winter, 2023-2024)*](assets/data/other/em.pdf)
-- [Quetzal Quantum Computing Career Accelerator: Quantum Machine Learning *(Fall, 2023)*](assets/data/other/quetzal.pdf)
-- [Perimeter Scholar's International Start Program: TA *(Summer, 2024)*](assets/data/other/psi.pdf)
-- [International Summer School for Young Physicists Program: Lecturer *(Summer, 2022-2023)*](assets/data/other/issyp.pdf)
+- University of Waterloo PHYS 468 Quantum Computing Implementations: TA [*(Fall, 2024)*](assets/data/other/quantumcomputing.pdf)
+- University of Waterloo PHYS 242 Electricity and Magnetism I: TA [*(Winter, 2023-2024)*](assets/data/other/em.pdf)
+- Quetzal Quantum Computing Career Accelerator: Quantum Machine Learning [*(Fall, 2023)*](assets/data/other/quetzal.pdf)
+- Perimeter Scholar's International Start Program: TA [*(Summer, 2024)*](assets/data/other/psi.pdf)
+- International Summer School for Young Physicists Program: Lecturer [*(Summer, 2022-2023)*](assets/data/other/issyp.pdf)
   <!-- - Developed week-long lecture series and Monte Carlo exercises on phase transitions for high school students -->
-- [Vector Institute Machine Learning Certificate Program: TA *(Spring, 2022)*](assets/data/other/ml.pdf)
+- Vector Institute Machine Learning Certificate Program: TA [*(Spring, 2022)*](assets/data/other/ml.pdf)
   <!-- - Developed course content and graded assignments for participants to learn introductory skills in learning theory -->
 
 # Outreach
@@ -13,7 +13,7 @@
 - Chair of Wavevector Seminar Series *(Fall, 2023 - Present)*
 - Perimeter Mentorship Program *(Fall, 2021 - Present)*
 - Perimeter Women in Physics Working Group *(Fall, 2022 - Present)*
-- [Perimeter Institute Academic Outreach *(Fall, 2021 - Present)*](assets/data/other/pi.pdf)
+- Perimeter Institute Academic Outreach [*(Fall, 2021 - Present)*](assets/data/other/pi.pdf)
 
 # Awards
 - NSERC PGS-D Graduate Scholarship - NSERC (2023 - 2025)

@@ -36,7 +36,7 @@ main:
     talk: ./assets/data/publications/phd_overparameterization_talk.pdf
     poster: ./assets/data/publications/phd_overparameterization_poster.pdf
     bibtex: ./assets/data/publications/phd_overparameterization.txt
-    image: ./assets/data/publications/phd_overparameterization.svg
+    image: ./assets/data/publications/phd_overparameterization.png
     notes:
 
   - title: Numerical analysis of non-local calculus on finite weighted graphs, with application to reduced-order modelling of dynamical systems

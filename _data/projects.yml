@@ -1,0 +1,39 @@
+main:
+
+  - title: simulation
+    authors: <strong>Matthew Duschenes</strong>
+    journal_short: github
+    journal:
+    doi: https://doi.org/10.5281/zenodo.10884844
+    pdf:
+    code: https://github.com/mduschenes/simulation
+    talk:
+    poster:
+    bibtex:
+    image: ./assets/data/projects/phd_overparameterization.png
+    notes: Pure JAX based quantum circuit simulator
+
+  - title: diagonalization
+    authors: <strong>Matthew Duschenes</strong>
+    journal_short: github
+    journal:
+    doi:
+    pdf: assets/data/projects/phd_diagonalization.pdf
+    code: https://github.com/mduschenes/diagonalization
+    talk:
+    poster:
+    bibtex:
+    image: ./assets/data/projects/phd_diagonalization.png
+    notes: Fast Eigen,ARPACK based exact diagonalization
+
+  - title: graph_calculus
+    authors: <strong>M. Duschenes</strong> and S. Srivastava
+    journal_short: github
+    journal:
+    doi: 
+    pdf: 
+    code: https://github.com/sidsriva/graph_calculus
+    talk: 
+    bibtex: 
+    image: ./assets/data/projects/masters_nonlocal_calculus.png
+    notes: Pure pandas based non-local calculus and inference
