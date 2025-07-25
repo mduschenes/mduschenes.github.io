@@ -1,7 +1,8 @@
 ## News
+- **[June. 2025]** [Talk](assets/data/news/phd_moments_quantum_channels.pdf) on *Moments of Quantum Channels* at Quantum Information Conference (Benasque), and Antonio Acin group (ICFO - Barcelona).
 - **[Sep-Dec. 2024]** TA for U Waterloo Course *PHYS 468 - Implementations of Quantum Information Processing*, and Contributor to Textbook [Building Quantum Computers](https://www.cambridge.org/highereducation/books/building-quantum-computers/6A73C509D3E0F5F0A566A11F6A566A90#overview)
-- **[Aug. 2024]** [Poster](assets/data/news/phd_expressivity_poster.pdf) on *Channel Expressivity Measures and their Operational Meaning* at CQIQC X
-- **[Jun. 2024]** Paper "Characterization of overparametrization in the simulation of realistic quantum systems" published in [Phys. Rev. A](https://doi.org/10.1103/PhysRevA.109.062607)
+- **[Aug. 2024]** [Poster](assets/data/news/phd_expressivity_poster.pdf) on *Channel Expressivity Measures and their Operational Meaning* at CQIQC X.
+- **[Jun. 2024]** Paper "Characterization of overparametrization in the simulation of realistic quantum systems" published in [Phys. Rev. A](https://doi.org/10.1103/PhysRevA.109.062607).
 - **[May. 2024]** [Talks](assets/data/news/phd_overparameterization_expressivity.pdf) on *Overparameterization and Expressivity of Realistic Quantum Systems* at IBM-Zurich, Jens Eisert group (Freie Universität - Berlin), and Zoe Holmes group (EPFL).
 - **[Mar. 2024]** [Talk](assets/data/news/phd_expressivity.pdf) on *Measures of Expressivity for Quantum Channels and their Operational Meaning* at APS March Meeting 2024.
 - **[Jan-May. 2024]** TA for U Waterloo Course *PHYS 242 - Electricity and Magnetism I*
