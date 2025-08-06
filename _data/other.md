@@ -11,7 +11,7 @@
 # Outreach
 - Chair of Perimeter Graduate Student Seminar Series *(Fall, 2023 - Present)*
 - Chair of Wavevector Seminar Series *(Fall, 2023 - Present)*
-- Journal Referee (PRA,PRE) and Conference Sub-Reviewer (QCTIP, TQC) *(Fall, 2023 - Present)*
+- Journal (npj QI,PRA,PRE, IOP ML) and Conference (QCTIP, TQC) Reviewer *(Fall, 2023 - Present)*
 - Perimeter Mentorship Program *(Fall, 2021 - Present)*
 - Perimeter Women in Physics Working Group *(Fall, 2022 - Present)*
 - Perimeter Institute Academic Outreach [*(Fall, 2021 - Present)*](assets/data/other/pi.pdf)

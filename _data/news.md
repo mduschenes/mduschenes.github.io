@@ -1,4 +1,5 @@
 ## News
+- **[July. 2025]** [Talk](assets/data/news/phd_povm.pdf ) on *Simulation of Noisy Quantum Systems with POVM-MPS* at 2025 IQC Grad Student Conference (IQC - Waterloo).
 - **[June. 2025]** [Talk](assets/data/news/phd_moments_quantum_channels.pdf) on *Moments of Quantum Channels* at Quantum Information Conference (Benasque), and Antonio Acin group (ICFO - Barcelona).
 - **[Sep-Dec. 2024]** TA for U Waterloo Course *PHYS 468 - Implementations of Quantum Information Processing*, and Contributor to Textbook [Building Quantum Computers](https://www.cambridge.org/highereducation/books/building-quantum-computers/6A73C509D3E0F5F0A566A11F6A566A90#overview)
 - **[Aug. 2024]** [Poster](assets/data/news/phd_expressivity_poster.pdf) on *Channel Expressivity Measures and their Operational Meaning* at CQIQC X.
