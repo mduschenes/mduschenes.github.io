@@ -2,8 +2,12 @@
 
 ## PhD - University of Waterloo
 - Duschenes, M. and Carrasquilla, J. and Laflamme, R. Characterization of overparametrization in the simulation of realistic quantum systems. [*Physical Review A.* **109**, 062607 (2024)](https://doi.org/10.1103/PhysRevA.109.062607)
-- Duschenes, M. "Channel Expressivity Measures". In [*Perimeter Graduate Student Conference* (2024)](https://pirsa.org/24090201)
+- Duschenes, M. "Moments of Quantum Channels". In [*Quantum Across Canada Conference* (2025)](assets/data/resume/phd_moments_quantum_channels_poster_iqc_2025.pdf)
+- Duschenes, M. "Simulation of Noisy Quantum Systems with POVM-MPS". In [*IQC Graduate Quantum Conference* (2025)](assets/data/resume/phd_simulation_povm_mps_talk_iqc_2025.pdf)
+- Duschenes, M. "Moments of Quantum Channels". In [*Invited Talk - IFCO Barcelona (Antonio Acin Group)* (2025)](assets/data/resume/phd_moments_quantum_channels_talk_benasque_2025.pdf)
+- Duschenes, M. "Moments of Quantum Channels". In [*Benasque Quantum Information Conference* (2025)](assets/data/resume/phd_moments_quantum_channels_talk_benasque_2025.pdf)
 - Duschenes, M. "Channel Expressivity Measures and their Operational Meaning". In [*CQIQC Conference X* (2024)](assets/data/resume/phd_expressivity_poster_cqiqc_2024.pdf)
+- Duschenes, M. "Channel Expressivity Measures". In [*Perimeter Graduate Student Conference* (2024)](https://pirsa.org/24090201)
 - Duschenes, M. "Channel Expressivity Measures". In [*IQC Graduate Quantum Conference* (2024)](assets/data/resume/phd_expressivity_talk_iqc_2024.pdf)
 - Duschenes, M. "Overparameterization and Expressivity of Realistic Quantum Systems". [*Invited talks -  IBM Zurich (Christa Zoufal), Freie Universität Berlin (Jens Eisert Group), EPFL (Zoe Holmes Group)* (2024)](assets/data/resume/phd_overparameterization_expressivity_talk_europe_2024.pdf)
 - Duschenes, M. and Martin, D. and Larocca, M. and Holmes, Z. and Cerezo, M. "Connecting channel expressiveness to gradient magnitudes and noise induced barren plateaus". In [*APS March Meeting, Session T51: Quantum Machine Learning Training and Beyond* (2024)](https://meetings.aps.org/Meeting/MAR24/Session/T51.2)

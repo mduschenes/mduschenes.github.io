@@ -19,11 +19,11 @@ main:
     journal: In Preparation, APS March Meeting 2024 - T51
     doi: 
     pdf:
-    code:
-    talk: ./assets/data/publications/phd_expressivity_talk.pdf
-    poster: ./assets/data/publications/phd_expressivity_poster.pdf
+    code: https://github.com/mduschenes/chaar
+    talk: ./assets/data/publications/phd_moments_quantum_channels_talk.pdf
+    poster: ./assets/data/publications/phd_moments_quantum_channels_poster.pdf
     bibtex:
-    image: ./assets/data/publications/phd_expressivity.png
+    image: ./assets/data/publications/phd_moments_quantum_channels.png
     notes: In Preparation for PRX Quantum
 
   - title: Characterization of Overparameterization in Simulation of Realistic Quantum Systems

@@ -21,7 +21,7 @@ SOURCE := _config.yml index.md
 DESTINATION :=
 CONFIG := $(patsubst %,$(DIRECTORY)/%,$(CONFIG))
 
-DIRECTORY := /home/${USER}/files/documents/resume
+DIRECTORY := /home/${USER}/files/documents/dossier
 SOURCE := resume/resume.pdf bib/bib.pdf
 DESTINATION := assets/data/resume/cv.pdf
 FILES := $(patsubst %,$(DIRECTORY)/%,$(SOURCE))

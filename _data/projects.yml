@@ -13,6 +13,19 @@ main:
     image: ./assets/data/projects/phd_overparameterization.png
     notes: Pure JAX based quantum circuit simulator
 
+  - title: chaar
+    authors: <strong>Matthew Duschenes</strong>
+    journal_short: github
+    journal:
+    doi:
+    pdf:
+    code: https://github.com/mduschenes/chaar
+    talk:
+    poster:
+    bibtex:
+    image: ./assets/data/projects/phd_chaar.png
+    notes: Sympy based Weingarten calculus for quantum channels
+
   - title: diagonalization
     authors: <strong>Matthew Duschenes</strong>
     journal_short: github
