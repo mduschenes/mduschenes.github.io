@@ -40,7 +40,7 @@ main:
     notes: Fast Eigen,ARPACK based exact diagonalization
 
   - title: graph_calculus
-    authors: <strong>M. Duschenes</strong> and S. Srivastava
+    authors: <strong>Matthew Duschenes</strong> and Sid Srivastava
     journal_short: github
     journal:
     doi: 

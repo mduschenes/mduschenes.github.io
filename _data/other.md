@@ -1,20 +1,22 @@
 # Teaching
-- University of Waterloo PHYS 468 Quantum Computing Implementations: TA [*(Fall, 2024)*](assets/data/other/quantumcomputing.pdf)
-- University of Waterloo PHYS 242 Electricity and Magnetism I: TA [*(Winter, 2023-2024)*](assets/data/other/em.pdf)
-- Quetzal Quantum Computing Career Accelerator: Quantum Machine Learning [*(Fall, 2023)*](assets/data/other/quetzal.pdf)
-- Perimeter Scholar's International Start Program: TA [*(Summer, 2024)*](assets/data/other/psi.pdf)
-- International Summer School for Young Physicists Program: Lecturer [*(Summer, 2022-2023)*](assets/data/other/issyp.pdf)
+- University of Waterloo PHYS 449 - Machine Learning: Guest Lecturer [*(Fall, 2025)*](assets/data/other/uw_phys449_talk.pdf) [**[Code]**](assets/data/other/uw_phys449_code.py)
+- University of Waterloo PHYS 468 - Quantum Computing Implementations: TA [*(Fall, 2024)*](assets/data/other/uw_phys468_notes.pdf)
+- University of Waterloo PHYS 242 - Electricity and Magnetism I: TA [*(Winter, 2023-2024)*](assets/data/other/uw_phys242_notes.pdf)
+- Girls in Quantum Program: Lecturer [*(Summer, 2023)*](assets/data/other/pi_girls_in_quantum_talk.pdf) [**[Code]**](assets/data/other/pi_girls_in_quantum_code.py)
+- Quetzal Quantum Computing Career Accelerator: Guest Lecturer [*(Fall, 2023)*](assets/data/other/pi_quetzal_talk.pdf)
+- Perimeter Scholar's International Start Program: TA [*(Summer, 2024)*](assets/data/other/pi_psi_talk.pdf)
+- International Summer School for Young Physicists Program: Lecturer [*(Summer, 2022-2023)*](assets/data/other/pi_issyp_notes.pdf)
   <!-- - Developed week-long lecture series and Monte Carlo exercises on phase transitions for high school students -->
-- Vector Institute Machine Learning Certificate Program: TA [*(Spring, 2022)*](assets/data/other/ml.pdf)
+- Vector Institute Machine Learning Certificate Program: TA [*(Spring, 2022)*](assets/data/other/vector_ml_talk.pdf)
   <!-- - Developed course content and graded assignments for participants to learn introductory skills in learning theory -->
 
 # Outreach
-- Chair of Perimeter Graduate Student Seminar Series *(Fall, 2023 - Present)*
-- Chair of Wavevector Seminar Series *(Fall, 2023 - Present)*
-- Journal (npj QI,PRA,PRE, IOP ML) and Conference (QCTIP, TQC) Reviewer *(Fall, 2023 - Present)*
+- Chair of Perimeter Graduate Student Seminar Series *(Fall, 2023 - Fall, 2025)*
+- Chair of Wavevector Seminar Series *(Fall, 2023 - Fall, 2024)*
+- Journal (npj QI,PRA,PRE,IOP ML) and Conference (QCTIP, TQC) Reviewer *(2023 - Present)*
 - Perimeter Mentorship Program *(Fall, 2021 - Present)*
-- Perimeter Women in Physics Working Group *(Fall, 2022 - Present)*
-- Perimeter Institute Academic Outreach [*(Fall, 2021 - Present)*](assets/data/other/pi.pdf)
+- Perimeter Gender Equity in Physics Working Group *(Fall, 2022 - Present)*
+- Perimeter Institute Academic Programs [*(Fall, 2021 - Present)*](assets/data/other/pi_outreach_talk.pdf)
 
 # Awards
 - NSERC PGS-D Graduate Scholarship - NSERC (2023 - 2025)
