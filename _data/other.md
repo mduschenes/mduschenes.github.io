@@ -1,4 +1,5 @@
-# Teaching
+# Teaching {#other}
+- Perimeter Institute PSI 602 - Statistical Physics: Guest Lecturer *(Fall, 2025)*
 - University of Waterloo PHYS 449 - Machine Learning: Guest Lecturer [*(Fall, 2025)*](assets/data/other/uw_phys449_talk.pdf) [**[Code]**](assets/data/other/uw_phys449_code.py)
 - University of Waterloo PHYS 468 - Quantum Computing Implementations: TA [*(Fall, 2024)*](assets/data/other/uw_phys468_notes.pdf)
 - University of Waterloo PHYS 242 - Electricity and Magnetism I: TA [*(Winter, 2023-2024)*](assets/data/other/uw_phys242_notes.pdf)

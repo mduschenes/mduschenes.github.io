@@ -24,3 +24,5 @@ gem "csv"
 gem 'faraday-retry', '~> 2.2', '>= 2.0.0'
 
 gem 'thin'
+
+gem 'kramdown'

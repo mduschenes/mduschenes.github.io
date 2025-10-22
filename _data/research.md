@@ -1,4 +1,4 @@
-## Research Interests
+## Research {#research}
 
 - **Noisy Variational Quantum Algorithms:** Representation theoretic descriptions of ensembles of quantum channels
 - **Classical Simulation of Quantum Systems:** Deep quantum circuit simulators, exact diagonalization, Monte Carlo, and tensor networks

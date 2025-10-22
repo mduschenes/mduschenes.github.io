@@ -1,4 +1,4 @@
-## About Me
+## About Me {#about}
 
 I am a PhD candidate in Quantum Information, with the late Raymond Laflamme, and Roger Melko at the Institute for Quantum Computing at the University of Waterloo, and Juan Carrasquilla at ETH.
 <p style="margin:0.5em;"></p>

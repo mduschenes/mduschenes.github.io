@@ -47,6 +47,7 @@ font: "Serif" # or "Sans Serif"
 # Plugins
 plugins:
   - jekyll-redirect-from
+  - kramdown
 
 
 # The following files will be removed from the generated website.

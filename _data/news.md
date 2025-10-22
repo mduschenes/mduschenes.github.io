@@ -1,4 +1,4 @@
-## News
+## News {#news}
 - **[October. 2025]** [Poster](assets/data/news/phd_moments_quantum_channels_poster.pdf) on *Moments of Quantum Channels* at 2025 Quantum Across Canada Conference (IQC/PI - Waterloo).
 - **[July. 2025]** [Talk](assets/data/news/phd_simulation_povm_mps_talk.pdf) on *Simulation of Noisy Quantum Systems with POVM-MPS* at 2025 IQC Grad Student Conference (IQC - Waterloo).
 - **[June. 2025]** [Talk](assets/data/news/phd_moments_quantum_channels_talk.pdf) on *Moments of Quantum Channels* at Quantum Information Conference (Benasque), and Antonio Acin group (ICFO - Barcelona).

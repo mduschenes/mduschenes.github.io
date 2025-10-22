@@ -1,4 +1,4 @@
-# Resume
+# Resume {#resume}
 
 ## PhD - University of Waterloo
 - Duschenes, M. and Carrasquilla, J. and Laflamme, R. Characterization of overparametrization in the simulation of realistic quantum systems. [*Physical Review A.* **109**, 062607 (2024)](https://doi.org/10.1103/PhysRevA.109.062607)
