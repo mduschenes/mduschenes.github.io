@@ -1,12 +1,17 @@
 ## News {#news}
-- **[October. 2025]** [Poster](assets/data/news/phd_moments_quantum_channels_poster.pdf) on *Moments of Quantum Channels* at 2025 Quantum Across Canada Conference (IQC/PI - Waterloo).
-- **[July. 2025]** [Talk](assets/data/news/phd_simulation_povm_mps_talk.pdf) on *Simulation of Noisy Quantum Systems with POVM-MPS* at 2025 IQC Grad Student Conference (IQC - Waterloo).
-- **[June. 2025]** [Talk](assets/data/news/phd_moments_quantum_channels_talk.pdf) on *Moments of Quantum Channels* at Quantum Information Conference (Benasque), and Antonio Acin group (ICFO - Barcelona).
+- **[October. 2025]** [Poster]() on *Moments of Quantum Channels* at 2025 Quantum Across Canada Conference (IQC/PI - Waterloo).
+<!-- - **[October. 2025]** [Poster](assets/data/news/phd_moments_quantum_channels_poster.pdf) on *Moments of Quantum Channels* at 2025 Quantum Across Canada Conference (IQC/PI - Waterloo). -->
+<!-- - **[July. 2025]** [Talk](assets/data/news/phd_simulation_povm_mps_talk.pdf) on *Simulation of Noisy Quantum Systems with POVM-MPS* at 2025 IQC Grad Student Conference (IQC - Waterloo). -->
+- **[June. 2025]** [Talk]() on *Moments of Quantum Channels* at Quantum Information Conference (Benasque), and Antonio Acin group (ICFO - Barcelona).
+<!-- - **[June. 2025]** [Talk](assets/data/news/phd_moments_quantum_channels_talk.pdf) on *Moments of Quantum Channels* at Quantum Information Conference (Benasque), and Antonio Acin group (ICFO - Barcelona). -->
 - **[Sep-Dec. 2024]** TA for U Waterloo Course *PHYS 468 - Implementations of Quantum Information Processing*, and Contributor to Textbook [Building Quantum Computers](https://www.cambridge.org/highereducation/books/building-quantum-computers/6A73C509D3E0F5F0A566A11F6A566A90#overview)
-- **[Aug. 2024]** [Poster](assets/data/news/phd_expressivity_poster.pdf) on *Channel Expressivity Measures and their Operational Meaning* at CQIQC X.
+- **[Aug. 2024]** [Poster]() on *Channel Expressivity Measures and their Operational Meaning* at CQIQC X.
+<!-- - **[Aug. 2024]** [Poster](assets/data/news/phd_expressivity_poster.pdf) on *Channel Expressivity Measures and their Operational Meaning* at CQIQC X. -->
 - **[Jun. 2024]** Paper "Characterization of overparametrization in the simulation of realistic quantum systems" published in [Phys. Rev. A](https://doi.org/10.1103/PhysRevA.109.062607).
-- **[May. 2024]** [Talk](assets/data/news/phd_overparameterization_expressivity_talk.pdf) on *Overparameterization and Expressivity of Realistic Quantum Systems* at IBM-Zurich, Jens Eisert group (Freie Universität - Berlin), and Zoe Holmes group (EPFL).
-- **[Mar. 2024]** [Talk](assets/data/news/phd_expressivity_talk.pdf) on *Measures of Expressivity for Quantum Channels and their Operational Meaning* at APS March Meeting 2024.
+- **[May. 2024]** [Talk]() on *Overparameterization and Expressivity of Realistic Quantum Systems* at IBM-Zurich, Jens Eisert group (Freie Universität - Berlin), and Zoe Holmes group (EPFL).
+<!-- - **[May. 2024]** [Talk](assets/data/news/phd_overparameterization_expressivity_talk.pdf) on *Overparameterization and Expressivity of Realistic Quantum Systems* at IBM-Zurich, Jens Eisert group (Freie Universität - Berlin), and Zoe Holmes group (EPFL). -->
+- **[Mar. 2024]** [Talk]() on *Measures of Expressivity for Quantum Channels and their Operational Meaning* at APS March Meeting 2024.
+<!-- - **[Mar. 2024]** [Talk](assets/data/news/phd_expressivity_talk.pdf) on *Measures of Expressivity for Quantum Channels and their Operational Meaning* at APS March Meeting 2024. -->
 - **[Jan-May. 2024]** TA for U Waterloo Course *PHYS 242 - Electricity and Magnetism I*
 - **[Sep. 2023]** Achieved PhD Candidacy via comprehensive written and oral examinations.
 - **[Jun.-Dec. 2023]** Internship at Los Alamos National Lab with Marco Cerezo and Diego Martin, on formalising the effects of noise in variational quantum algorithms.

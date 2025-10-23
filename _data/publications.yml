@@ -7,21 +7,21 @@ main:
     doi: 
     pdf:
     code:
-    talk: ./assets/data/publications/phd_povm_talk.pdf
+    talk: #./assets/data/publications/phd_povm_talk.pdf
     poster:
     bibtex:
     image: ./assets/data/publications/phd_povm.png
     notes: In Preparation for arXiv
 
-  - title: Moments of Quantum Channels
+  - title: Moments of Ensembles of Quantum Channels
     authors: <strong>M. Duschenes</strong>, D. Martin, Z. Holmes, and M. Cerezo
     journal_short: In Preparation
     journal: In Preparation, APS March Meeting 2024 - T51
     doi: 
     pdf:
-    code: https://github.com/mduschenes/chaar
-    talk: ./assets/data/publications/phd_moments_quantum_channels_talk.pdf
-    poster: ./assets/data/publications/phd_moments_quantum_channels_poster.pdf
+    code: #https://github.com/mduschenes/chaar
+    talk: #./assets/data/publications/phd_moments_quantum_channels_talk.pdf
+    poster: #./assets/data/publications/phd_moments_quantum_channels_poster.pdf
     bibtex:
     image: ./assets/data/publications/phd_moments_quantum_channels.png
     notes: In Preparation for PRX Quantum
