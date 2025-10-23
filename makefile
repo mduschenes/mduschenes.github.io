@@ -22,7 +22,7 @@ DESTINATION :=
 CONFIG := $(patsubst %,$(DIRECTORY)/%,$(CONFIG))
 
 DIRECTORY := /home/${USER}/files/documents/dossier
-SOURCE := resume/resume.pdf bib/bib.pdf
+SOURCE := resume/resume.pdf bib/bib.pdf dossier/dossier.pdf
 DESTINATION := assets/data/resume/cv.pdf
 FILES := $(patsubst %,$(DIRECTORY)/%,$(SOURCE))
 
