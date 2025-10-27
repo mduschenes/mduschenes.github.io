@@ -47,6 +47,7 @@ font: "Serif" # or "Sans Serif"
 # Plugins
 plugins:
   - jekyll-redirect-from
+  - faraday-retry
   - kramdown
 
 
