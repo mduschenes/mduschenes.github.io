@@ -24,7 +24,7 @@ main:
     poster: #./assets/data/publications/phd_moments_quantum_channels_poster.pdf
     bibtex:
     image: ./assets/data/publications/phd_moments_quantum_channels.png
-    notes: In Preparation for Physical Review Journals
+    notes: In Preparation for Journal Submission
 
   - title: Characterization of Overparameterization in Simulation of Realistic Quantum Systems
     authors: <strong>Matthew Duschenes</strong>, J. Carrasquilla, and R. Laflamme
