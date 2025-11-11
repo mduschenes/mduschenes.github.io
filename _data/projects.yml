@@ -15,11 +15,11 @@ main:
 
   - title: chaar
     authors: <strong>Matthew Duschenes</strong>
-    journal_short: In Preparation
+    journal_short: github
     journal:
     doi:
     pdf:
-    code: #https://github.com/mduschenes/chaar
+    code: https://github.com/mduschenes/chaar
     talk:
     poster:
     bibtex:
