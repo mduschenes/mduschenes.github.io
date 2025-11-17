@@ -1,7 +1,7 @@
 main:
 
   - title: Simulations of Noisy Quantum Systems with Probabilities
-    authors: <strong>Matthew Duschenes</strong>, R. Melko, J. Carrasquilla, and R. Laflamme
+    authors: <strong>M. Duschenes </strong>, R. Melko, J. Carrasquilla, and R. Laflamme
     journal_short: In Preparation
     journal: In Preparation
     doi: 
@@ -17,8 +17,9 @@ main:
     authors: <strong>M. Duschenes</strong>, D. Martin, Z. Holmes, and M. Cerezo
     journal_short: arXiv
     journal: arxiv:2511xxxxx (2025), APS March Meeting 2024 - T51
-    doi: 
-    pdf: https://arxiv.org/pdf/2511.XXXXX.pdf
+    link: https://arxiv.org/abs/2511.XXXXX
+    doi:
+    pdf: https://arxiv.org/pdf/2511.XXXXX
     code: https://github.com/mduschenes/chaar
     talk: ./assets/data/publications/phd_moments_quantum_channels_talk.pdf
     poster: ./assets/data/publications/phd_moments_quantum_channels_poster.pdf
@@ -27,11 +28,12 @@ main:
     notes: In Preparation for Journal
 
   - title: Characterization of Overparameterization in Simulation of Realistic Quantum Systems
-    authors: <strong>Matthew Duschenes</strong>, J. Carrasquilla, and R. Laflamme
+    authors: <strong>M. Duschenes </strong>, J. Carrasquilla, and R. Laflamme
     journal_short: Physical Review A
     journal: Phys. Rev. A 109, 062607 (2024), APS March Meeting 2023 - Y70
+    link: https://arxiv.org/abs/2401.05500
     doi: https://doi.org/10.1103/PhysRevA.109.062607
-    pdf: https://arxiv.org/pdf/2401.05500.pdf
+    pdf: https://arxiv.org/pdf/2401.05500
     code: https://github.com/mduschenes/simulation
     talk: ./assets/data/publications/phd_overparameterization_talk.pdf
     poster: ./assets/data/publications/phd_overparameterization_poster.pdf
@@ -43,8 +45,9 @@ main:
     authors: <strong>M. Duschenes</strong>, S. Srivastava, and K. Garikipati
     journal_short: Comp. Meth. Appl. Mech. Eng.
     journal: Comput. Methods Appl. Mech. Eng. <strong>402</strong>, 115513 (2022)
+    link: https://arxiv.org/abs/2205.02206
     doi: https://doi.org/10.1016/j.cma.2022.115513    
-    pdf: https://arxiv.org/pdf/2205.02206.pdf
+    pdf: https://arxiv.org/pdf/2205.02206
     code: https://github.com/sidsriva/graph_calculus
     talk: ./assets/data/publications/masters_nonlocal_calculus_talk.pdf
     bibtex: ./assets/data/publications/masters_nonlocal_calculus.txt
@@ -54,6 +57,8 @@ main:
     authors: <strong>M. Duschenes</strong>, with R. Melko and L. Hayward
     journal_short: Master's Thesis
     journal: Perimeter Scholar's International Master's Thesis (2018)
+    link: ./assets/data/publications/masters_psi.pdf
+    doi:
     pdf: ./assets/data/publications/masters_psi.pdf
     code: https://github.com/mduschenes/tSNE_Potts
     talk: ./assets/data/publications/masters_psi_talk.pdf

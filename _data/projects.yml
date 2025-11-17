@@ -4,6 +4,7 @@ main:
     authors: <strong>Matthew Duschenes</strong>
     journal_short: github
     journal:
+    link: https://github.com/mduschenes/simulation
     doi: https://doi.org/10.5281/zenodo.10884844
     pdf:
     code: https://github.com/mduschenes/simulation
@@ -17,6 +18,7 @@ main:
     authors: <strong>Matthew Duschenes</strong>
     journal_short: github
     journal:
+    link: https://github.com/mduschenes/chaar
     doi:
     pdf:
     code: https://github.com/mduschenes/chaar
@@ -30,6 +32,7 @@ main:
     authors: <strong>Matthew Duschenes</strong>
     journal_short: github
     journal:
+    link: https://github.com/mduschenes/diagonalization
     doi:
     pdf: assets/data/projects/phd_diagonalization.pdf
     code: https://github.com/mduschenes/diagonalization
@@ -43,6 +46,7 @@ main:
     authors: <strong>Matthew Duschenes</strong> and Sid Srivastava
     journal_short: github
     journal:
+    link: https://github.com/sidsriva/graph_calculus
     doi: 
     pdf: 
     code: https://github.com/sidsriva/graph_calculus
