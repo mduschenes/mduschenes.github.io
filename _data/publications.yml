@@ -17,9 +17,9 @@ main:
     authors: <strong>M. Duschenes</strong>, D. Martin, Z. Holmes, and M. Cerezo
     journal_short: arXiv
     journal: arxiv:2511xxxxx (2025), APS March Meeting 2024 - T51
-    link: https://arxiv.org/abs/2511.XXXXX
+    link: ./assets/data/publications/phd_moments_quantum_channels.pdf
     doi:
-    pdf: https://arxiv.org/pdf/2511.XXXXX
+    pdf: ./assets/data/publications/phd_moments_quantum_channels.pdf
     code: https://github.com/mduschenes/chaar
     talk: ./assets/data/publications/phd_moments_quantum_channels_talk.pdf
     poster: ./assets/data/publications/phd_moments_quantum_channels_poster.pdf
