@@ -16,10 +16,10 @@ main:
   - title: Moments of Ensembles of Quantum Channels
     authors: <strong>M. Duschenes</strong>, D. Martin, Z. Holmes, and M. Cerezo
     journal_short: arXiv
-    journal: arxiv:2511xxxxx (2025), APS March Meeting 2024 - T51
-    link: ./assets/data/publications/phd_moments_quantum_channels.pdf
+    journal:  arXiv:2511.12700 (2025), APS March Meeting 2024 - T51
+    link: https://arxiv.org/abs/2511.12700
     doi:
-    pdf: ./assets/data/publications/phd_moments_quantum_channels.pdf
+    pdf: https://arxiv.org/abs/2511.12700
     code: https://github.com/mduschenes/chaar
     talk: ./assets/data/publications/phd_moments_quantum_channels_talk.pdf
     poster: ./assets/data/publications/phd_moments_quantum_channels_poster.pdf
