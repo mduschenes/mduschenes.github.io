@@ -1,5 +1,8 @@
 # Resume {#resume}
 
+### <a href="assets/data/resume/cv.pdf" style="color : white;">  📝 *Resume + Publications + Teaching Dossier* </a>
+
+
 ## PhD - University of Waterloo
 - Duschenes, M. and Carrasquilla, J. and Laflamme, R. Characterization of overparametrization in the simulation of realistic quantum systems. [*Physical Review A.* **109**, 062607 (2024)](https://doi.org/10.1103/PhysRevA.109.062607)
 - Duschenes, M. "Moments of Quantum Channels". In [*Quantum Across Canada Conference* (2025)](assets/data/resume/phd_moments_quantum_channels_poster_iqc_2025.pdf)
