@@ -1,7 +1,5 @@
 # Teaching {#other}
 
-### <a href="assets/data/resume/cv.pdf" style="color : white;">  📝 *Resume + Publications + Teaching Dossier* </a>
-
 - Perimeter Institute PSI 602 - Statistical Physics: Guest Lecturer [*(Fall, 2025)*](https://pirsa.org/25110018)
 - University of Waterloo PHYS 449 - Machine Learning: Guest Lecturer [*(Fall, 2025)*](assets/data/other/uw_phys449_talk.pdf) [**[Code]**](assets/data/other/uw_phys449_code.py)
 - University of Waterloo PHYS 468 - Quantum Computing Implementations: TA [*(Fall, 2024)*](assets/data/other/uw_phys468_notes.pdf)
