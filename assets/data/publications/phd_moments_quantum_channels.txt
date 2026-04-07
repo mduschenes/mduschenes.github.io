@@ -1,0 +1,10 @@
+@article{duschenes2025moments,
+  author = {Duschenes, Matthew and Garc{\'{i}}a-Mart{\'{i}}n, Diego and Holmes, Zo{\"{e}} and Cerezo, M.},
+  title = {{Moments of quantum channel ensembles}},
+  journal = {arXiv preprint arXiv:2511.12700},
+  number = {},
+  pages = {},
+  doi = {10.48550/arXiv.2511.12700},
+  url = {https://doi.org/10.48550/arXiv.2511.12700},
+  year = {2025}
+}

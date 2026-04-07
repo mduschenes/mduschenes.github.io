@@ -1,0 +1,10 @@
+@article{duschenes2026distributions,
+  author = {Duschenes, Matthew and Melko, Roger and Carrasquilla, Juan and Laflamme, Raymond},
+  title = {{Distributions of Noisy Expectation Values over Sets of Measurement Operators}},
+  journal = {arXiv preprint arXiv:},
+  number = {},
+  pages = {},
+  doi = {10.48550/arXiv.},
+  url = {https://doi.org/10.48550/arXiv.},
+  year = {2026}
+}
