@@ -4,7 +4,7 @@
   journal = {arXiv preprint arXiv:},
   number = {},
   pages = {},
-  doi = {10.48550/arXiv.},
-  url = {https://doi.org/10.48550/arXiv.},
+  doi = {10.48550/arXiv.2604.05973},
+  url = {https://doi.org/10.48550/arXiv.2604.05973},
   year = {2026}
 }

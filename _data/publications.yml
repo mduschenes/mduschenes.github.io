@@ -4,9 +4,9 @@ main:
     authors: <strong>M. Duschenes </strong>, R. Melko, J. Carrasquilla, and R. Laflamme
     journal_short: arXiv
     journal: In Preparation
-    link:
-    doi: 
-    pdf: ./assets/data/publications/phd_expectation_values.pdf
+    link: https://doi.org/10.48550/arXiv.2604.05973
+    doi:
+    pdf: https://arxiv.org/pdf/2604.05973
     code: https://github.com/mduschenes/simulation
     talk:
     poster:
@@ -20,7 +20,7 @@ main:
     journal:  arXiv:2511.12700 (2025), APS March Meeting 2024 - T51
     link: https://doi.org/10.48550/arXiv.2511.12700
     doi:
-    pdf: https://doi.org/10.48550/arXiv.2511.12700
+    pdf: https://arxiv.org/pdf/2511.12700
     code: https://github.com/mduschenes/chaar
     talk: ./assets/data/publications/phd_moments_quantum_channels_talk.pdf
     poster: ./assets/data/publications/phd_moments_quantum_channels_poster.pdf

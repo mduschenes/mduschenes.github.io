@@ -1,4 +1,7 @@
 ## News {#news}
+- **[April. 2026]** Paper "Distributions of Noisy Expectation Values over Sets of Measurement Operators
+" posted on [arXiv](https://doi.org/10.48550/arXiv.2604.05973).
+- **[Nov. 2025]** Paper "Moments of quantum channel ensembles" posted on [arXiv](https://doi.org/10.48550/arXiv.2511.12700).
 - **[Nov. 2025]** Guest lectures on [Energy-Based Generative Modelling (RBM's)](https://pirsa.org/25110018) and [Dimensional Reduction (PCA,t-SNE)](assets/data/news/lecture_dimensional_reduction_code.py) for UW and PSI statistical physics courses (PHYS 449, PSI 602).
 - **[June. 2025]** [Talk](assets/data/news/phd_moments_quantum_channels_talk.pdf) on *Moments of Quantum Channels* at Quantum Information Conference (Benasque), and Antonio Acin group (ICFO - Barcelona).
 - **[Sep-Dec. 2024]** TA for U Waterloo Course *PHYS 468 - Implementations of Quantum Information Processing*, and Contributor to Textbook [Building Quantum Computers](https://www.cambridge.org/highereducation/books/building-quantum-computers/6A73C509D3E0F5F0A566A11F6A566A90#overview)
