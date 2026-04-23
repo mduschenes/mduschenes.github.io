@@ -49,7 +49,7 @@ plugins:
   - jekyll-redirect-from
   - faraday-retry
   - kramdown
-
+  - jekyll-seo-tag
 
 # The following files will be removed from the generated website.
 exclude:
