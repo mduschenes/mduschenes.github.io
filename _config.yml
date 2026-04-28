@@ -44,12 +44,17 @@ font: "Serif" # or "Sans Serif"
 # See the guide here: https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll
 # remote_theme:
 
+# Url
+url: "https://mduschenes.github.io"
+baseurl: ""
+
 # Plugins
 plugins:
-  - jekyll-redirect-from
   - faraday-retry
   - kramdown
+  - jekyll-redirect-from
   - jekyll-seo-tag
+  - jekyll-sitemap
 
 # The following files will be removed from the generated website.
 exclude:
@@ -58,3 +63,4 @@ exclude:
   - README.md
   - LICENSE
   - makefile
+

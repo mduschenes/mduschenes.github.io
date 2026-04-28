@@ -28,3 +28,5 @@ gem 'thin'
 gem 'kramdown'
 
 gem 'jekyll-seo-tag'
+
+gem 'jekyll-sitemap'
