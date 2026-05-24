@@ -1,1 +1,1 @@
-# Website and data for [https://mduschenes.github.io](mduschenes.github.io)
+# Website for [mduschenes.github.io](https://mduschenes.github.io)
