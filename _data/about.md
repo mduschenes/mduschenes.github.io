@@ -1,6 +1,6 @@
 ## About Me {#about}
 
-I am a PhD candidate in Quantum Information, with the late Raymond Laflamme, and Roger Melko at the Institute for Quantum Computing at the University of Waterloo, and Juan Carrasquilla at ETH.
+I am a PhD graduate in Physics (Quantum Information), with the late Raymond Laflamme, Roger Melko, and Juan Carrasquilla at the Institute for Quantum Computing at the University of Waterloo.
 <p style="margin:0.5em;"></p>
 I am currently studying the relationships between physical phenomena and computational approaches, and am developing analytical and numerical methods to study the effects of noise on optimization, statistics, and simulability of parameterized quantum systems.
 <p style="margin:0.5em;"></p>
