@@ -2,9 +2,13 @@
 
 ## PhD - University of Waterloo
 - Duschenes, M. and Carrasquilla, J. and Laflamme, R. Characterization of overparametrization in the simulation of realistic quantum systems. [*Physical Review A.* **109**, 062607 (2024)](https://doi.org/10.1103/PhysRevA.109.062607)
+- Duschenes, M. simulation: Jax based simulator [*Github Repository* (2022)](https://github.com/mduschenes/simulation)
+- Duschenes, M. and Garcia-Martin, D. and Holmes, Z. and Cerezo, M. Moments of quantum channel ensembles. [*arXiv preprint arXiv:2511.12700* (2025)](https://doi.org/10.48550/arXiv.2511.12700)
+- Duschenes, M. and Melko, R. and Carrasquilla, J. and Laflamme, R. Distributions of Noisy Expectation Values over Sets of Measurement Operators. [*arXiv preprint arXiv:2604.05973* (2026)](https://doi.org/10.48550/arXiv.2604.05973)
+- Duschenes, M. Effects of Noise on Optimization, Statistics, and Simulation of Quantum Systems. [*PhD Thesis* (2026)](assets/data/resume/phd_thesis.pdf)
 - Duschenes, M. "Moments of Quantum Channels". In [*Quantum Across Canada Conference* (2025)](assets/data/resume/phd_moments_quantum_channels_poster_iqc_2025.pdf)
 - Duschenes, M. "Simulation of Noisy Quantum Systems with Probabilities". In [*IQC Graduate Quantum Conference* (2025)]()
-<!-- - Duschenes, M. "Simulation of Noisy Quantum Systems with POVM-MPS". In [*IQC Graduate Quantum Conference* (2025)](assets/data/resume/phd_simulation_povm_mps_talk_iqc_2025.pdf) -->
+- Duschenes, M. "Simulation of Noisy Quantum Systems with POVM-MPS". In [*IQC Graduate Quantum Conference* (2025)](assets/data/resume/phd_simulation_povm_mps_talk_iqc_2025.pdf)
 - Duschenes, M. "Moments of Quantum Channels". In [*Invited Talk - IFCO Barcelona (Antonio Acin Group)* (2025)](assets/data/resume/phd_moments_quantum_channels_talk_benasque_2025.pdf)
 - Duschenes, M. "Moments of Quantum Channels". In [*Benasque Quantum Information Conference* (2025)](assets/data/resume/phd_moments_quantum_channels_talk_benasque_2025.pdf)
 - Duschenes, M. "Channel Expressivity Measures and their Operational Meaning". In [*CQIQC Conference X* (2024)](assets/data/resume/phd_expressivity_poster_cqiqc_2024.pdf)

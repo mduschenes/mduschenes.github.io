@@ -1,9 +1,23 @@
 main:
 
+  - title: Effects of Noise on Optimization, Statistics, and Simulation of Quantum Systems
+    authors: <strong>M. Duschenes </strong>
+    journal_short: PhD Thesis
+    journal: PhD Thesis (Physics - Quantum Information)
+    link:
+    doi:
+    pdf: ./assets/data/publications/phd_thesis.pdf
+    code:
+    talk: ./assets/data/publications/phd_thesis_talk.pdf
+    poster:
+    bibtex: ./assets/data/publications/phd_thesis.txt
+    image: ./assets/data/publications/phd_thesis.png
+    notes:
+
   - title: Distributions of Noisy Expectation Values over Sets of Measurement Operators
     authors: <strong>M. Duschenes </strong>, R. Melko, J. Carrasquilla, and R. Laflamme
     journal_short: arXiv
-    journal: In Preparation
+    journal: arXiv.2604.05973 (2026)
     link: https://doi.org/10.48550/arXiv.2604.05973
     doi:
     pdf: https://arxiv.org/pdf/2604.05973

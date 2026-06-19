@@ -14,9 +14,9 @@
 - Chair of Perimeter Graduate Student Seminar Series *(Fall, 2023 - Fall, 2025)*
 - Chair of Wavevector Seminar Series *(Fall, 2023 - Fall, 2024)*
 - Journal (npj QI,PRA,PRE,IOP ML) and Conference (QCTIP, TQC) Reviewer *(2023 - Present)*
-- Perimeter Mentorship Program *(Fall, 2021 - Present)*
-- Perimeter Gender Equity in Physics Working Group *(Fall, 2022 - Present)*
-- Perimeter Institute Academic Programs [*(Fall, 2021 - Present)*](assets/data/other/pi_outreach_talk.pdf)
+- Perimeter Mentorship Program *(Fall, 2021 - Summer, 2026)*
+- Perimeter Gender Equity in Physics Working Group *(Fall, 2022 - Fall, 2025)*
+- Perimeter Institute Academic Programs [*(Fall, 2021 - Summer, 2026)*](assets/data/other/pi_outreach_talk.pdf)
 
 # Awards
 - NSERC PGS-D Graduate Scholarship - NSERC (2023 - 2026)
