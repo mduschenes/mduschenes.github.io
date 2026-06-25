@@ -2,5 +2,6 @@
   author  = {Duschenes, Matthew},
   title   = {Effects of Noise on Optimization, Statistics, and Simulation of Quantum Systems},
   school  = {University of Waterloo},
+  url = {https://hdl.handle.net/10012/23660},
   year    = {2026}
 }

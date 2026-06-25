@@ -5,7 +5,7 @@
 - Duschenes, M. simulation: Jax based simulator [*Github Repository* (2022)](https://github.com/mduschenes/simulation)
 - Duschenes, M. and Garcia-Martin, D. and Holmes, Z. and Cerezo, M. Moments of quantum channel ensembles. [*arXiv preprint arXiv:2511.12700* (2025)](https://doi.org/10.48550/arXiv.2511.12700)
 - Duschenes, M. and Melko, R. and Carrasquilla, J. and Laflamme, R. Distributions of Noisy Expectation Values over Sets of Measurement Operators. [*arXiv preprint arXiv:2604.05973* (2026)](https://doi.org/10.48550/arXiv.2604.05973)
-- Duschenes, M. Effects of Noise on Optimization, Statistics, and Simulation of Quantum Systems. [*PhD Thesis* (2026)](assets/data/resume/phd_thesis.pdf)
+- Duschenes, M. Effects of Noise on Optimization, Statistics, and Simulation of Quantum Systems. [*PhD Thesis* (2026)](https://hdl.handle.net/10012/23660)
 - Duschenes, M. "Moments of Quantum Channels". In [*Quantum Across Canada Conference* (2025)](assets/data/resume/phd_moments_quantum_channels_poster_iqc_2025.pdf)
 - Duschenes, M. "Simulation of Noisy Quantum Systems with Probabilities". In [*IQC Graduate Quantum Conference* (2025)]()
 - Duschenes, M. "Simulation of Noisy Quantum Systems with POVM-MPS". In [*IQC Graduate Quantum Conference* (2025)](assets/data/resume/phd_simulation_povm_mps_talk_iqc_2025.pdf)

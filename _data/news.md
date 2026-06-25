@@ -1,7 +1,6 @@
 ## News {#news}
-- **[May. 2026]** [Defended PhD Thesis](assets/data/news/phd_thesis_talk.pdf) "Effects of Noise on Optimization, Statistics, and Simulation of Quantum Systems", for PhD in Physics (Quantum Information) available on [UWSpace](assets/data/news/phd_thesis.pdf).
-- **[April. 2026]** Paper "Distributions of Noisy Expectation Values over Sets of Measurement Operators
-" posted on [arXiv](https://doi.org/10.48550/arXiv.2604.05973).
+- **[May. 2026]** [Defended PhD Thesis](assets/data/news/phd_thesis_talk.pdf) "Effects of Noise on Optimization, Statistics, and Simulation of Quantum Systems", for PhD in Physics (Quantum Information) available on [UWSpace](https://hdl.handle.net/10012/23660).
+- **[April. 2026]** Paper "Distributions of Noisy Expectation Values over Sets of Measurement Operators" posted on [arXiv](https://doi.org/10.48550/arXiv.2604.05973).
 - **[Nov. 2025]** Paper "Moments of quantum channel ensembles" posted on [arXiv](https://doi.org/10.48550/arXiv.2511.12700).
 - **[Nov. 2025]** Guest lectures on [Energy-Based Generative Modelling (RBM's)](https://pirsa.org/25110018) and [Dimensional Reduction (PCA,t-SNE)](assets/data/news/lecture_dimensional_reduction_code.py) for UW and PSI statistical physics courses (PHYS 449, PSI 602).
 - **[June. 2025]** [Talk](assets/data/news/phd_moments_quantum_channels_talk.pdf) on *Moments of Quantum Channels* at Quantum Information Conference (Benasque), and Antonio Acin group (ICFO - Barcelona).

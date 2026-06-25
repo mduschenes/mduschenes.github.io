@@ -4,8 +4,8 @@ main:
     authors: <strong>M. Duschenes </strong>
     journal_short: PhD Thesis
     journal: PhD Thesis (Physics - Quantum Information)
-    link:
-    doi:
+    link: https://hdl.handle.net/10012/23660
+    doi: https://hdl.handle.net/10012/23660
     pdf: ./assets/data/publications/phd_thesis.pdf
     code:
     talk: ./assets/data/publications/phd_thesis_talk.pdf
