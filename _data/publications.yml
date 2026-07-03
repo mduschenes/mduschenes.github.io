@@ -28,7 +28,7 @@ main:
     image: ./assets/data/publications/phd_expectation_values.png
     notes: In Preparation for Journal
 
-  - title: Moments of Ensembles of Quantum Channels
+  - title: Moments of Quantum Channel Ensembles
     authors: <strong>M. Duschenes</strong>, D. Martin, Z. Holmes, and M. Cerezo
     journal_short: arXiv
     journal:  arXiv:2511.12700 (2025), APS March Meeting 2024 - T51
