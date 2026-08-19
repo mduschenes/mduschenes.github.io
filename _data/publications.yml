@@ -16,17 +16,17 @@ main:
 
   - title: Distributions of Noisy Expectation Values over Sets of Measurement Operators
     authors: <strong>M. Duschenes </strong>, R. Melko, J. Carrasquilla, and R. Laflamme
-    journal_short: arXiv
-    journal: arXiv.2604.05973 (2026)
-    link: https://doi.org/10.48550/arXiv.2604.05973
-    doi:
+    journal_short: Physical Review A
+    journal: Phys. Rev. A 114, 022434 (2026)
+    link: https://doi.org/10.1103/qp99-qqgy
+    doi: https://doi.org/10.1103/qp99-qqgy
     pdf: https://arxiv.org/pdf/2604.05973
     code: https://github.com/mduschenes/simulation
-    talk:
+    talk: ./assets/data/publications/phd_expectation_values_talk.pdf
     poster:
     bibtex: ./assets/data/publications/phd_expectation_values.txt
     image: ./assets/data/publications/phd_expectation_values.png
-    notes: In Preparation for Journal
+    notes:
 
   - title: Moments of Quantum Channel Ensembles
     authors: <strong>M. Duschenes</strong>, D. Martin, Z. Holmes, and M. Cerezo
@@ -40,7 +40,7 @@ main:
     poster: ./assets/data/publications/phd_moments_quantum_channels_poster.pdf
     bibtex: ./assets/data/publications/phd_moments_quantum_channels.txt
     image: ./assets/data/publications/phd_moments_quantum_channels.png
-    notes: In Preparation for Journal
+    notes: In press for PRX Quantum
 
   - title: Characterization of Overparameterization in Simulation of Realistic Quantum Systems
     authors: <strong>M. Duschenes </strong>, J. Carrasquilla, and R. Laflamme

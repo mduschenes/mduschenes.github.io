@@ -2,10 +2,10 @@
 
 ## PhD - University of Waterloo
 - Duschenes, M. and Carrasquilla, J. and Laflamme, R. Characterization of overparametrization in the simulation of realistic quantum systems. [*Physical Review A.* **109**, 062607 (2024)](https://doi.org/10.1103/PhysRevA.109.062607)
-- Duschenes, M. simulation: Jax based simulator [*Github Repository* (2022)](https://github.com/mduschenes/simulation)
 - Duschenes, M. and Garcia-Martin, D. and Holmes, Z. and Cerezo, M. Moments of quantum channel ensembles. [*arXiv preprint arXiv:2511.12700* (2025)](https://doi.org/10.48550/arXiv.2511.12700)
-- Duschenes, M. and Melko, R. and Carrasquilla, J. and Laflamme, R. Distributions of Noisy Expectation Values over Sets of Measurement Operators. [*arXiv preprint arXiv:2604.05973* (2026)](https://doi.org/10.48550/arXiv.2604.05973)
+- Duschenes, M. and Melko, R. and Carrasquilla, J. and Laflamme, R. Distributions of Noisy Expectation Values over Sets of Measurement Operators. [*Physical Review A.* **114**, 022434 (2026)](https://doi.org/10.1103/qp99-qqgy)
 - Duschenes, M. Effects of Noise on Optimization, Statistics, and Simulation of Quantum Systems. [*PhD Thesis* (2026)](https://hdl.handle.net/10012/23660)
+- Duschenes, M. simulation: Jax based simulator [*Github Repository* (2022)](https://github.com/mduschenes/simulation)
 - Duschenes, M. "Moments of Quantum Channels". In [*Quantum Across Canada Conference* (2025)](assets/data/resume/phd_moments_quantum_channels_poster_iqc_2025.pdf)
 - Duschenes, M. "Simulation of Noisy Quantum Systems with Probabilities". In [*IQC Graduate Quantum Conference* (2025)]()
 - Duschenes, M. "Simulation of Noisy Quantum Systems with POVM-MPS". In [*IQC Graduate Quantum Conference* (2025)](assets/data/resume/phd_simulation_povm_mps_talk_iqc_2025.pdf)
