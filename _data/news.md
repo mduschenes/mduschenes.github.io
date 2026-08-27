@@ -1,5 +1,7 @@
 ## News {#news}
 - **[September. 2026]** [Started Postdoctoral Scholar Position](https://www.uoguelph.ca/mathstat) Working on development of analytical and numerical tools for understanding error correction in open quantum systems, in the Department of Mathematics and Statistics at the University of Guelph, with David Kribs.
+- **[Aug. 2026]** Paper "Distributions of Noisy Expectation Values over Sets of Measurement Operators" published as an *Editor's Suggestion* in [Phys. Rev. A](https://doi.org/10.1103/qp99-qqgy).
+- **[May. 2026]** [Defended PhD Thesis](assets/data/news/phd_thesis_talk.pdf) "Effects of Noise on Optimization, Statistics, and Simulation of Quantum Systems", for PhD in Physics (Quantum Information) available on [UWSpace](https://hdl.handle.net/10012/23660).
 - **[April. 2026]** Paper "Distributions of Noisy Expectation Values over Sets of Measurement Operators" posted on [arXiv](https://doi.org/10.48550/arXiv.2604.05973).
 - **[Nov. 2025]** Paper "Moments of quantum channel ensembles" posted on [arXiv](https://doi.org/10.48550/arXiv.2511.12700).
 - **[Nov. 2025]** Guest lectures on [Energy-Based Generative Modelling (RBM's)](https://pirsa.org/25110018) and [Dimensional Reduction (PCA,t-SNE)](assets/data/news/lecture_dimensional_reduction_code.py) for UW and PSI statistical physics courses (PHYS 449, PSI 602).

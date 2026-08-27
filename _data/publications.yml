@@ -26,7 +26,7 @@ main:
     poster:
     bibtex: ./assets/data/publications/phd_expectation_values.txt
     image: ./assets/data/publications/phd_expectation_values.png
-    notes:
+    notes: Editor's Suggestion
 
   - title: Moments of Quantum Channel Ensembles
     authors: <strong>M. Duschenes</strong>, D. Martin, Z. Holmes, and M. Cerezo
