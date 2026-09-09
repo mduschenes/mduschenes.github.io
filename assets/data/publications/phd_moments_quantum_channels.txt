@@ -1,10 +1,12 @@
-@article{duschenes2025moments,
-  author = {Duschenes, Matthew and Garc{\'{i}}a-Mart{\'{i}}n, Diego and Holmes, Zo{\"{e}} and Cerezo, M.},
-  title = {{Moments of quantum channel ensembles}},
-  journal = {arXiv preprint arXiv:2511.12700},
-  number = {},
-  pages = {},
-  doi = {10.48550/arXiv.2511.12700},
-  url = {https://doi.org/10.48550/arXiv.2511.12700},
-  year = {2025}
+@article{duschenes2026moments,
+  title = {Moments of Quantum Channel Ensembles},
+  author={Duschenes, Matthew and Garcia-Martin, Diego and Holmes, Zoe and Cerezo, Marco},
+  journal = {PRX Quantum},
+  volume = {7},
+  issue = {3},
+  pages = {033050},
+  arxivID = {arXiv:2511.12700},
+  doi = {10.1103/grdp-jph9},
+  url = {https://doi.org/10.1103/grdp-jph9},
+  year = {2026}
 }

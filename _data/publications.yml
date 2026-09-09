@@ -30,23 +30,23 @@ main:
 
   - title: Moments of Quantum Channel Ensembles
     authors: <strong>M. Duschenes</strong>, D. Martin, Z. Holmes, and M. Cerezo
-    journal_short: arXiv
-    journal:  arXiv:2511.12700 (2025), APS March Meeting 2024 - T51
-    link: https://doi.org/10.48550/arXiv.2511.12700
-    doi:
+    journal_short: PRX Quantum
+    journal: PRX Quantum 7, 033050 (2026)
+    link: https://doi.org/10.1103/grdp-jph9
+    doi: https://doi.org/10.1103/grdp-jph9
     pdf: https://arxiv.org/pdf/2511.12700
     code: https://github.com/mduschenes/chaar
     talk: ./assets/data/publications/phd_moments_quantum_channels_talk.pdf
     poster: ./assets/data/publications/phd_moments_quantum_channels_poster.pdf
     bibtex: ./assets/data/publications/phd_moments_quantum_channels.txt
     image: ./assets/data/publications/phd_moments_quantum_channels.png
-    notes: In press for PRX Quantum
+    notes:
 
   - title: Characterization of Overparameterization in Simulation of Realistic Quantum Systems
     authors: <strong>M. Duschenes </strong>, J. Carrasquilla, and R. Laflamme
     journal_short: Physical Review A
     journal: Phys. Rev. A 109, 062607 (2024), APS March Meeting 2023 - Y70
-    link: https://doi.org/10.48550/arXiv.2401.05500
+    link: https://doi.org/10.1103/PhysRevA.109.062607
     doi: https://doi.org/10.1103/PhysRevA.109.062607
     pdf: https://arxiv.org/pdf/2401.05500
     code: https://github.com/mduschenes/simulation
@@ -60,7 +60,7 @@ main:
     authors: <strong>M. Duschenes</strong>, S. Srivastava, and K. Garikipati
     journal_short: Comp. Meth. Appl. Mech. Eng.
     journal: Comput. Methods Appl. Mech. Eng. <strong>402</strong>, 115513 (2022)
-    link: https://doi.org/10.48550/arXiv.2205.02206
+    link: https://doi.org/10.1016/j.cma.2022.115513
     doi: https://doi.org/10.1016/j.cma.2022.115513    
     pdf: https://arxiv.org/pdf/2205.02206
     code: https://github.com/sidsriva/graph_calculus
